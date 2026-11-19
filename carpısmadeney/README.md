@@ -1,4 +1,4 @@
 opencv-python
 numpy
 matplotlib
-terminalde python carpışma.py
+terminalde python çarpışma.py
